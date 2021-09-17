@@ -1,14 +1,14 @@
 Environement[
-	GUI : Anaconda.Navigator
-	IDE : Spyder 4.2.5
-	OS : Windows 10
-	conda -V : 4.10.3
-	python -V : 3.9.7
+	GUI : Anaconda.Navigator;
+	IDE : Spyder 4.2.5;
+	OS : Windows 10;
+	conda -V : 4.10.3;
+	python -V : 3.9.7;
 	githum link : https://github.com/DorianSONZOGNI/testTechniqueQiiro/blob/main/README.md
 	]
 	
 Package install[
-	user_agents
+	user_agents;
 	ua_parser
 	]
 	
