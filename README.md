@@ -4,6 +4,7 @@ Environement[
 	OS : Windows 10
 	conda -V : 4.10.3
 	python -V : 3.9.7
+	githum link : https://github.com/DorianSONZOGNI/testTechniqueQiiro/blob/main/README.md
 	]
 	
 Package install[
@@ -23,3 +24,4 @@ Ambiguiter :
 
 L'OS Android ne semble jamais apparaître, je n'ai donc pas pu testé depuis l'API le fonctionnement de mon code
 Cependant j'ai créer un test montrant que tout fonctionne ligne 20
+
